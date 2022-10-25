@@ -4,7 +4,7 @@ public class Student {
 
   //-------------------------------------------
   // Attribute
-  private String name = "";
+  private String name = "m";
 
   // Matrikelnummer
   private int registrationNumber = 0;
